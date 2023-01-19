@@ -119,3 +119,12 @@ VSСode дает возможность выбрать какое изменен
 
 Удаленный репоиторий это облачное хранилище ваших файлов.
 
+## Полезные ссылки:
+ * [Git за полчаса: руководство для начинающих] _https://proglib.io/p/git-for-half-an-hour_
+
+ * [Работа с ветками в Git (git branch)] _https://selectel.ru/blog/tutorials/how-to-work-with-branches-in-git-git-branch/_
+ 
+ * [Get started] _https://docs.github.com/en/get-started_
+
+ * [Краткое руководство 
+"Начните работу с GitHub для управления репозиториями Git и совместной работы с другими пользователями."] _https://docs.github.com/ru/get-started/quickstart"_
